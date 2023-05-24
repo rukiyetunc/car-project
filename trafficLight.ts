@@ -97,6 +97,8 @@ const listenerCallback = (data: EventData) => {
 
  removeListenerFunction();
   
-  // * The listeners will not be called
+  // * The listeners will not be called 
   statusInformation1.printCarMovement();
   statusInformation1.printLampColor();
+
+  // demo
